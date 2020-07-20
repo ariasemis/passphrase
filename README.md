@@ -14,3 +14,8 @@ Inspired by <https://www.eff.org/dice>
   ```
   dotnet fsi passphrase.fsx
   ```
+
+## License
+
+The wordlist included was created by Electronic Frontier Foundation, and is distributed under the Creative Commons Attribution 3.0.
+The script itself is licensed under the MIT license.
