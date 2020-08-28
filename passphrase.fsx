@@ -24,4 +24,4 @@ let passphrase =
     |> List.map (fun n -> words.[n])
     |> String.concat " "
 
-printfn "%s%s" passphrase Environment.NewLine
+printfn "%s" passphrase
